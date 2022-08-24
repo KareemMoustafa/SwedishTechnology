@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9qmSxmVHHNSiWgy3I68kHCbmr9OE1vnREpTVTN0yV34=",
+  "Source": "DiscountService.WebAPI",
+  "BasePath": "_content/DiscountService.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
